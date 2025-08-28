@@ -22,7 +22,7 @@
 
 1. Clone the repository
    
-   git clone https://github.com/your-username/Plant-Disease-Detector.git
+   git clone https://github.com/Prethika88/Plant-Disease-Detector.git
    
    cd Plant-Disease-Detector
    
