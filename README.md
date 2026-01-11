@@ -1,4 +1,4 @@
-## Overview
+## Plant-Disease-Detector
 
 - A machine learning project that detects plant diseases from leaf images using deep learning.  
 - This project helps farmers and researchers identify plant diseases early and take corrective measures.
@@ -12,13 +12,13 @@
 - Easily extendable for new plant species and diseases.
 
   
-## Tech Stack
+## Technologies Used
 - Language: Python 3.6.2 or above  
 - Backend: FastAPI  
 - Frontend: HTML, CSS, JavaScript  
 - Libraries: TensorFlow 2.5.0, NumPy, Pandas, Matplotlib
 
-  ## Installation & Setup
+  ## Installation
 
 1. Clone the repository
    
@@ -49,4 +49,8 @@
 -  Upload your plant leaf image.
 
 -  If you don’t have one, use a sample image from the Dataset folder.
+
+
+## License
+This project is licensed under MIT License.
 
