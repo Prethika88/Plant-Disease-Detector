@@ -18,7 +18,7 @@
 - Frontend: HTML, CSS, JavaScript  
 - Libraries: TensorFlow 2.5.0, NumPy, Pandas, Matplotlib
 
-  ## Installation
+## Installation
 
 1. Clone the repository
    
@@ -52,5 +52,6 @@
 
 
 ## License
+
 This project is licensed under MIT License.
 
